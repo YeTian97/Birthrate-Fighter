@@ -1,0 +1,559 @@
+Province,Region,Year,Birthrate,Education_Fund
+Beijing,North China,2019,8.12,14794780
+Tianjin,North China,2019,6.73,6270839
+Hebei,North China,2019,10.83,19921191
+Shanxi,North China,2019,9.12,9857999
+Inner Mongolia,North China,2019,8.23,8105720
+Liaoning,Northeast China,2019,6.45,10593957
+Jilin,Northeast China,2019,6.05,6777422
+Heilongjiang,Northeast China,2019,5.73,8115856
+Shanghai,East China,2019,7,14125408
+Jiangsu,East China,2019,9.12,31093313
+Zhejiang,East China,2019,10.51,27343770
+Anhui,East China,2019,12.03,16375812
+Fujian,East China,2019,12.9,13429131
+Jiangxi,East China,2019,12.59,14535470
+Shandong,East China,2019,11.77,29001760
+Henan,South Central China,2019,11.02,26685217
+Hubei,South Central China,2019,11.35,16067052
+Hunan,South Central China,2019,10.39,17753672
+Guangdong,South Central China,2019,12.54,49187551
+Guangxi,South Central China,2019,13.31,14367736
+Hainan,South Central China,2019,12.87,4243935
+Chongqing,Southwest China,2019,10.48,11442967
+Sichuan,Southwest China,2019,10.7,22547121
+Guizhou,Southwest China,2019,13.65,13622935
+Yunnan,Southwest China,2019,12.63,14833632
+Tibet,Southwest China,2019,14.6,2881230
+Shaanxi,Northwest China,2019,10.55,12490355
+Gansu,Northwest China,2019,10.6,7998741
+Qinghai,Northwest China,2019,13.66,2894894
+Ningxia,Northwest China,2019,13.72,2532754
+Xinjiang,Northwest China,2019,8.14,10214911
+Beijing,North China,2018,8.24,13525400
+Tianjin,North China,2018,6.67,6351712
+Hebei,North China,2018,11.26,17389625
+Shanxi,North China,2018,9.63,9134205
+Inner Mongolia,North China,2018,8.35,7759014
+Liaoning,Northeast China,2018,6.39,9759379
+Jilin,Northeast China,2018,6.62,6866495
+Heilongjiang,Northeast China,2018,5.98,7612173
+Shanghai,East China,2018,7.2,13412840
+Jiangsu,East China,2018,9.32,28276374
+Zhejiang,East China,2018,11.02,24009012
+Anhui,East China,2018,12.41,15011779
+Fujian,East China,2018,13.2,12547951
+Jiangxi,East China,2018,13.43,13152969
+Shandong,East China,2018,13.26,26349273
+Henan,South Central China,2018,11.72,24293502
+Hubei,South Central China,2018,11.54,14578340
+Hunan,South Central China,2018,12.19,16300603
+Guangdong,South Central China,2018,12.79,42684258
+Guangxi,South Central China,2018,14.12,12836618
+Hainan,South Central China,2018,14.48,3777479
+Chongqing,Southwest China,2018,11.02,10216274
+Sichuan,Southwest China,2018,11.05,20767987
+Guizhou,Southwest China,2018,13.9,12732768
+Yunnan,Southwest China,2018,13.19,14543783
+Tibet,Southwest China,2018,15.22,2562958
+Shaanxi,Northwest China,2018,10.67,11375081
+Gansu,Northwest China,2018,11.07,7404892
+Qinghai,Northwest China,2018,14.31,2640309
+Ningxia,Northwest China,2018,13.32,2346978
+Xinjiang,Northwest China,2018,10.69,9522617
+Beijing,North China,2017,9.06,12512746
+Tianjin,North China,2017,7.65,5850624
+Hebei,North China,2017,13.2,15938479
+Shanxi,North China,2017,11.06,8533662
+Inner Mongolia,North China,2017,9.47,7601337
+Liaoning,Northeast China,2017,6.49,9651893
+Jilin,Northeast China,2017,6.76,6586685
+Heilongjiang,Northeast China,2017,6.22,7545432
+Shanghai,East China,2017,8.1,12104556
+Jiangsu,East China,2017,9.71,25960645
+Zhejiang,East China,2017,11.92,21327866
+Anhui,East China,2017,14.07,13751567
+Fujian,East China,2017,15,11390975
+Jiangxi,East China,2017,13.79,11717849
+Shandong,East China,2017,17.54,23946021
+Henan,South Central China,2017,12.95,21546749
+Hubei,South Central China,2017,12.6,13821834
+Hunan,South Central China,2017,13.27,15165690
+Guangdong,South Central China,2017,13.68,38610331
+Guangxi,South Central China,2017,15.14,11891781
+Hainan,South Central China,2017,14.73,3390271
+Chongqing,Southwest China,2017,11.18,9483526
+Sichuan,Southwest China,2017,11.26,19274514
+Guizhou,Southwest China,2017,13.98,12488005
+Yunnan,Southwest China,2017,13.53,13292088
+Tibet,Southwest China,2017,16,2387658
+Shaanxi,Northwest China,2017,11.11,10545862
+Gansu,Northwest China,2017,12.54,7087547
+Qinghai,Northwest China,2017,14.42,2343469
+Ningxia,Northwest China,2017,13.44,2288400
+Xinjiang,Northwest China,2017,15.88,8462090
+Beijing,North China,2016,9.32,11934724
+Tianjin,North China,2016,7.37,5365129
+Hebei,North China,2016,12.42,14203834
+Shanxi,North China,2016,10.29,7942196
+Inner Mongolia,North China,2016,9.03,7624806
+Liaoning,Northeast China,2016,6.6,9206907
+Jilin,Northeast China,2016,5.55,6439837
+Heilongjiang,Northeast China,2016,6.12,7336607
+Shanghai,East China,2016,9,11218946
+Jiangsu,East China,2016,9.76,24020855
+Zhejiang,East China,2016,11.22,18908104
+Anhui,East China,2016,13.02,12357931
+Fujian,East China,2016,14.5,10473975
+Jiangxi,East China,2016,13.45,10468837
+Shandong,East China,2016,17.89,22422970
+Henan,South Central China,2016,13.26,18902582
+Hubei,South Central China,2016,12.04,13009264
+Hunan,South Central China,2016,13.57,13781959
+Guangdong,South Central China,2016,11.85,33675376
+Guangxi,South Central China,2016,13.82,10914241
+Hainan,South Central China,2016,14.57,3068767
+Chongqing,Southwest China,2016,11.77,8863208
+Sichuan,Southwest China,2016,10.48,17620946
+Guizhou,Southwest China,2016,13.43,10335342
+Yunnan,Southwest China,2016,13.16,11886446
+Tibet,Southwest China,2016,15.79,1857714
+Shaanxi,Northwest China,2016,10.64,10049114
+Gansu,Northwest China,2016,12.18,6706137
+Qinghai,Northwest China,2016,14.7,2162973
+Ningxia,Northwest China,2016,13.69,2072544
+Xinjiang,Northwest China,2016,15.34,7823914
+Beijing,North China,2015,7.96,11171250
+Tianjin,North China,2015,5.84,5605736
+Hebei,North China,2015,11.35,12861641
+Shanxi,North China,2015,9.98,8442363
+Inner Mongolia,North China,2015,7.72,7072130
+Liaoning,Northeast China,2015,6.17,8781171
+Jilin,Northeast China,2015,5.87,5975239
+Heilongjiang,Northeast China,2015,6,7040039
+Shanghai,East China,2015,7.52,10131153
+Jiangsu,East China,2015,9.05,22463773
+Zhejiang,East China,2015,10.52,17568215
+Anhui,East China,2015,12.92,11578495
+Fujian,East China,2015,13.9,10028329
+Jiangxi,East China,2015,13.2,9732898
+Shandong,East China,2015,12.55,20632259
+Henan,South Central China,2015,12.7,17411099
+Hubei,South Central China,2015,10.74,11435059
+Hunan,South Central China,2015,13.58,12223238
+Guangdong,South Central China,2015,11.12,30474906
+Guangxi,South Central China,2015,14.05,10111559
+Hainan,South Central China,2015,14.57,2809962
+Chongqing,Southwest China,2015,11.05,7971003
+Sichuan,Southwest China,2015,10.3,16409562
+Guizhou,Southwest China,2015,13,9277347
+Yunnan,Southwest China,2015,12.88,10455388
+Tibet,Southwest China,2015,15.75,1919434
+Shaanxi,Northwest China,2015,10.1,9674438
+Gansu,Northwest China,2015,12.36,6134547
+Qinghai,Northwest China,2015,14.72,2073501
+Ningxia,Northwest China,2015,12.62,1963258
+Xinjiang,Northwest China,2015,15.59,7132774
+Beijing,North China,2014,9.75,10937374
+Tianjin,North China,2014,8.19,6326265
+Hebei,North China,2014,13.18,10861672
+Shanxi,North China,2014,10.92,7036233
+Inner Mongolia,North China,2014,9.31,6393778
+Liaoning,Northeast China,2014,6.49,8700533
+Jilin,Northeast China,2014,6.62,5353180
+Heilongjiang,Northeast China,2014,7.37,6278812
+Shanghai,East China,2014,8.35,9892212
+Jiangsu,East China,2014,9.45,20800931
+Zhejiang,East China,2014,10.51,16079755
+Anhui,East China,2014,12.86,10457811
+Fujian,East China,2014,13.7,8928771
+Jiangxi,East China,2014,13.24,8930127
+Shandong,East China,2014,14.23,18847752
+Henan,South Central China,2014,12.8,16385611
+Hubei,South Central China,2014,11.86,9874547
+Hunan,South Central China,2014,13.52,11285463
+Guangdong,South Central China,2014,10.8,27356552
+Guangxi,South Central China,2014,14.07,8586224
+Hainan,South Central China,2014,14.56,2413904
+Chongqing,Southwest China,2014,10.67,6979973
+Sichuan,Southwest China,2014,10.22,14508458
+Guizhou,Southwest China,2014,12.98,7700061
+Yunnan,Southwest China,2014,12.65,9199396
+Tibet,Southwest China,2014,15.76,1529504
+Shaanxi,Northwest China,2014,10.13,9101672
+Gansu,Northwest China,2014,12.21,5181631
+Qinghai,Northwest China,2014,14.67,1976886
+Ningxia,Northwest China,2014,13.1,1697964
+Xinjiang,Northwest China,2014,16.44,6349792
+Beijing,North China,2013,8.93,9998366
+Tianjin,North China,2013,8.28,5699615
+Hebei,North China,2013,13.04,10298143
+Shanxi,North China,2013,10.81,6918247
+Inner Mongolia,North China,2013,8.98,6121559
+Liaoning,Northeast China,2013,6.09,9302062
+Jilin,Northeast China,2013,5.36,5480347
+Heilongjiang,Northeast China,2013,6.86,6006258
+Shanghai,East China,2013,8.18,9069715
+Jiangsu,East China,2013,9.44,19862835
+Zhejiang,East China,2013,10.01,14490439
+Anhui,East China,2013,12.88,10413043
+Fujian,East China,2013,12.2,8228012
+Jiangxi,East China,2013,13.19,8284996
+Shandong,East China,2013,11.41,17796161
+Henan,South Central China,2013,12.27,15577127
+Hubei,South Central China,2013,11.08,8972278
+Hunan,South Central China,2013,13.5,10784551
+Guangdong,South Central China,2013,10.71,24775503
+Guangxi,South Central China,2013,14.28,7794191
+Hainan,South Central China,2013,14.59,2222868
+Chongqing,Southwest China,2013,10.37,6565622
+Sichuan,Southwest China,2013,9.9,13805525
+Guizhou,Southwest China,2013,13.05,6799795
+Yunnan,Southwest China,2013,12.6,9006912
+Tibet,Southwest China,2013,15.77,1206744
+Shaanxi,Northwest China,2013,10.01,8926920
+Gansu,Northwest China,2013,12.16,4811034
+Qinghai,Northwest China,2013,14.16,1569408
+Ningxia,Northwest China,2013,13.12,1578935
+Xinjiang,Northwest China,2013,15.84,5989856
+Beijing,North China,2011,8.29,7373843
+Tianjin,North China,2011,8.58,4136097
+Hebei,North China,2011,13.02,8447882
+Shanxi,North China,2011,10.47,5494903
+Inner Mongolia,North China,2011,8.94,5040005
+Liaoning,Northeast China,2011,5.71,7809413
+Jilin,Northeast China,2011,6.53,4293877
+Heilongjiang,Northeast China,2011,6.99,4838173
+Shanghai,East China,2011,6.97,7106255
+Jiangsu,East China,2011,9.59,15882132
+Zhejiang,East China,2011,9.47,12069078
+Anhui,East China,2011,12.23,8172010
+Fujian,East China,2011,11.41,6344839
+Jiangxi,East China,2011,13.48,6307866
+Shandong,East China,2011,11.5,13727939
+Henan,South Central China,2011,11.56,11821418
+Hubei,South Central China,2011,10.39,6844038
+Hunan,South Central China,2011,13.35,7987607
+Guangdong,South Central China,2011,10.45,18846365
+Guangxi,South Central China,2011,13.71,5938482
+Hainan,South Central China,2011,14.72,1732237
+Chongqing,Southwest China,2011,9.88,5039550
+Sichuan,Southwest China,2011,9.79,10244130
+Guizhou,Southwest China,2011,13.31,4510531
+Yunnan,Southwest China,2011,12.71,6582935
+Tibet,Southwest China,2011,15.39,826102
+Shaanxi,Northwest China,2011,9.75,6838342
+Gansu,Northwest China,2011,12.08,3608174
+Qinghai,Northwest China,2011,14.43,1552462
+Ningxia,Northwest China,2011,13.65,1313862
+Xinjiang,Northwest China,2011,14.99,4605867
+Beijing,North China,2010,7.48,6134448
+Tianjin,North China,2010,8.18,2920970
+Hebei,North China,2010,13.22,7192734
+Shanxi,North China,2010,10.68,4508195
+Inner Mongolia,North China,2010,9.3,4143731
+Liaoning,Northeast China,2010,6.68,6242615
+Jilin,Northeast China,2010,7.91,3445611
+Heilongjiang,Northeast China,2010,7.35,4048565
+Shanghai,East China,2010,7.05,5582736
+Jiangsu,East China,2010,9.73,13146233
+Zhejiang,East China,2010,10.27,10625688
+Anhui,East China,2010,12.7,5990868
+Fujian,East China,2010,11.27,5341118
+Jiangxi,East China,2010,13.72,4494597
+Shandong,East China,2010,11.65,10395900
+Henan,South Central China,2010,11.52,9111164
+Hubei,South Central China,2010,10.36,5869164
+Hunan,South Central China,2010,13.1,6497608
+Guangdong,South Central China,2010,11.18,15327348
+Guangxi,South Central China,2010,14.13,4941416
+Hainan,South Central China,2010,14.71,1422673
+Chongqing,Southwest China,2010,9.17,4068437
+Sichuan,Southwest China,2010,8.93,8951781
+Guizhou,Southwest China,2010,13.96,3669550
+Yunnan,Southwest China,2010,13.1,5336317
+Tibet,Southwest China,2010,15.8,662293
+Shaanxi,Northwest China,2010,9.73,5143635
+Gansu,Northwest China,2010,12.05,3106736
+Qinghai,Northwest China,2010,14.94,1062206
+Ningxia,Northwest China,2010,14.14,994671
+Xinjiang,Northwest China,2010,15.99,3655998
+Beijing,North China,2009,8.06,5289432
+Tianjin,North China,2009,8.3,2381672
+Hebei,North China,2009,12.93,6145261
+Shanxi,North China,2009,10.87,3809096
+Inner Mongolia,North China,2009,9.57,3187733
+Liaoning,Northeast China,2009,6.06,5349184
+Jilin,Northeast China,2009,6.69,3006988
+Heilongjiang,Northeast China,2009,7.48,3486163
+Shanghai,East China,2009,8.64,4937339
+Jiangsu,East China,2009,9.55,11054890
+Zhejiang,East China,2009,10.22,8911507
+Anhui,East China,2009,13.07,4873316
+Fujian,East China,2009,12.2,4479126
+Jiangxi,East China,2009,13.87,3776516
+Shandong,East China,2009,11.7,8397429
+Henan,South Central China,2009,11.45,7633496
+Hubei,South Central China,2009,9.48,5194495
+Hunan,South Central China,2009,13.05,5660684
+Guangdong,South Central China,2009,11.78,12843085
+Guangxi,South Central China,2009,14.17,3873253
+Hainan,South Central China,2009,14.66,1175474
+Chongqing,Southwest China,2009,9.9,3309977
+Sichuan,Southwest China,2009,9.15,8088479
+Guizhou,Southwest China,2009,13.65,3094113
+Yunnan,Southwest China,2009,12.53,4408081
+Tibet,Southwest China,2009,15.31,597448
+Shaanxi,Northwest China,2009,10.24,4637457
+Gansu,Northwest China,2009,13.32,2761110
+Qinghai,Northwest China,2009,14.51,785820
+Ningxia,Northwest China,2009,14.38,813071
+Xinjiang,Northwest China,2009,15.99,2959264
+Beijing,North China,2008,8.17,4690166
+Tianjin,North China,2008,8.13,2060843
+Hebei,North China,2008,13.04,5584914
+Shanxi,North China,2008,11.32,3328404
+Inner Mongolia,North China,2008,9.81,2625527
+Liaoning,Northeast China,2008,6.32,4792311
+Jilin,Northeast China,2008,6.65,2714195
+Heilongjiang,Northeast China,2008,7.91,3386551
+Shanghai,East China,2008,8.89,4823026
+Jiangsu,East China,2008,9.34,9964272
+Zhejiang,East China,2008,10.2,7972834
+Anhui,East China,2008,13.05,4383732
+Fujian,East China,2008,12.2,3898541
+Jiangxi,East China,2008,13.92,3333171
+Shandong,East China,2008,11.25,7749148
+Henan,South Central China,2008,11.42,6561523
+Hubei,South Central China,2008,9.21,4519593
+Hunan,South Central China,2008,12.68,5066050
+Guangdong,South Central China,2008,11.8,11661554
+Guangxi,South Central China,2008,14.4,3476223
+Hainan,South Central China,2008,14.71,928981
+Chongqing,Southwest China,2008,10.1,2662580
+Sichuan,Southwest China,2008,9.54,6578338
+Guizhou,Southwest China,2008,13.49,2709138
+Yunnan,Southwest China,2008,12.63,3422932
+Tibet,Southwest China,2008,15.5,494122
+Shaanxi,Northwest China,2008,10.29,3806168
+Gansu,Northwest China,2008,13.22,2310200
+Qinghai,Northwest China,2008,14.49,608034
+Ningxia,Northwest China,2008,14.31,702612
+Xinjiang,Northwest China,2008,16.05,2501661
+Beijing,North China,2007,8.32,4077284
+Tianjin,North China,2007,7.91,1657108
+Hebei,North China,2007,13.33,4403700
+Shanxi,North China,2007,11.3,2649876
+Inner Mongolia,North China,2007,10.21,2019987
+Liaoning,Northeast China,2007,6.89,4122455
+Jilin,Northeast China,2007,7.55,2133095
+Heilongjiang,Northeast China,2007,7.88,2736590
+Shanghai,East China,2007,9.07,4318320
+Jiangsu,East China,2007,9.37,8513327
+Zhejiang,East China,2007,10.38,7058575
+Anhui,East China,2007,12.75,3451326
+Fujian,East China,2007,11.9,3322233
+Jiangxi,East China,2007,13.86,2850048
+Shandong,East China,2007,11.11,6802414
+Henan,South Central China,2007,11.26,5493997
+Hubei,South Central China,2007,9.19,3689008
+Hunan,South Central China,2007,11.96,4196365
+Guangdong,South Central China,2007,11.96,10734751
+Guangxi,South Central China,2007,14.19,2758915
+Hainan,South Central China,2007,14.62,757981
+Chongqing,Southwest China,2007,10.1,2309734
+Sichuan,Southwest China,2007,9.21,5009787
+Guizhou,Southwest China,2007,13.28,2070113
+Yunnan,Southwest China,2007,13.08,2757505
+Tibet,Southwest China,2007,16.4,420562
+Shaanxi,Northwest China,2007,10.21,2855270
+Gansu,Northwest China,2007,13.14,1672565
+Qinghai,Northwest China,2007,14.93,458238
+Ningxia,Northwest China,2007,14.8,636974
+Xinjiang,Northwest China,2007,16.79,1916673
+Beijing,North China,2006,6.26,3374329
+Tianjin,North China,2006,7.67,1428992
+Hebei,North China,2006,12.82,3554401
+Shanxi,North China,2006,11.48,2198470
+Inner Mongolia,North China,2006,9.87,1480999
+Liaoning,Northeast China,2006,6.4,3282283
+Jilin,Northeast China,2006,7.67,1724213
+Heilongjiang,Northeast China,2006,7.57,2230540
+Shanghai,East China,2006,7.47,3707275
+Jiangsu,East China,2006,9.36,6845888
+Zhejiang,East China,2006,10.29,6315051
+Anhui,East China,2006,12.6,2775700
+Fujian,East China,2006,12,2771266
+Jiangxi,East China,2006,13.8,2213618
+Shandong,East China,2006,11.6,5471049
+Henan,South Central China,2006,11.59,4179475
+Hubei,South Central China,2006,9.08,2904962
+Hunan,South Central China,2006,11.92,3338525
+Guangdong,South Central China,2006,11.78,8654359
+Guangxi,South Central China,2006,14.44,2134365
+Hainan,South Central China,2006,14.59,558645
+Chongqing,Southwest China,2006,9.9,1681572
+Sichuan,Southwest China,2006,9.14,3654194
+Guizhou,Southwest China,2006,13.97,1549737
+Yunnan,Southwest China,2006,13.2,2311083
+Tibet,Southwest China,2006,17.4,276921
+Shaanxi,Northwest China,2006,10.19,2288723
+Gansu,Northwest China,2006,12.86,1321480
+Qinghai,Northwest China,2006,15.24,373988
+Ningxia,Northwest China,2006,15.53,398718
+Xinjiang,Northwest China,2006,15.79,1532703
+Beijing,North China,2005,6.29,5227188
+Tianjin,North China,2005,7.44,1479873
+Hebei,North China,2005,12.84,3249421
+Shanxi,North China,2005,12.02,1891253
+Inner Mongolia,North China,2005,10.08,1293432
+Liaoning,Northeast China,2005,7.01,3164488
+Jilin,Northeast China,2005,7.89,1742325
+Heilongjiang,Northeast China,2005,7.87,2342133
+Shanghai,East China,2005,7.04,4229482
+Jiangsu,East China,2005,9.24,6653202
+Zhejiang,East China,2005,11.1,5684275
+Anhui,East China,2005,12.43,2524901
+Fujian,East China,2005,11.6,2505241
+Jiangxi,East China,2005,13.79,1889654
+Shandong,East China,2005,12.14,4988243
+Henan,South Central China,2005,11.55,3579528
+Hubei,South Central China,2005,8.74,3392273
+Hunan,South Central China,2005,11.9,3234353
+Guangdong,South Central China,2005,11.7,8066357
+Guangxi,South Central China,2005,14.26,1832798
+Hainan,South Central China,2005,14.65,468455
+Chongqing,Southwest China,2005,9.4,1731033
+Sichuan,Southwest China,2005,9.7,3632254
+Guizhou,Southwest China,2005,14.59,1394867
+Yunnan,Southwest China,2005,14.72,1985088
+Tibet,Southwest China,2005,17.94,301722
+Shaanxi,Northwest China,2005,10.02,2331533
+Gansu,Northwest China,2005,12.59,1195074
+Qinghai,Northwest China,2005,15.7,287259
+Ningxia,Northwest China,2005,15.93,363459
+Xinjiang,Northwest China,2005,16.42,1527225
+Beijing,North China,2004,6.1,4492628
+Tianjin,North China,2004,7.31,1239682
+Hebei,North China,2004,11.98,2700904
+Shanxi,North China,2004,12.36,1548848
+Inner Mongolia,North China,2004,9.53,1115216
+Liaoning,Northeast China,2004,6.51,2700789
+Jilin,Northeast China,2004,7.39,1454419
+Heilongjiang,Northeast China,2004,7.27,2118831
+Shanghai,East China,2004,6,3832691
+Jiangsu,East China,2004,9.45,5570009
+Zhejiang,East China,2004,10.71,5001700
+Anhui,East China,2004,11.62,2216291
+Fujian,East China,2004,11.58,2224559
+Jiangxi,East China,2004,13.61,1566029
+Shandong,East China,2004,12.5,4267089
+Henan,South Central China,2004,11.67,2999489
+Hubei,South Central China,2004,8.43,2985502
+Hunan,South Central China,2004,11.89,2724014
+Guangdong,South Central China,2004,13.13,7087101
+Guangxi,South Central China,2004,13.32,1605769
+Hainan,South Central China,2004,14.77,389305
+Chongqing,Southwest China,2004,9.45,1434395
+Sichuan,Southwest China,2004,9.05,3091287
+Guizhou,Southwest China,2004,15.08,1142162
+Yunnan,Southwest China,2004,15.6,1750841
+Tibet,Southwest China,2004,17.4,234500
+Shaanxi,Northwest China,2004,10.59,2047443
+Gansu,Northwest China,2004,12.43,1031445
+Qinghai,Northwest China,2004,16.32,225275
+Ningxia,Northwest China,2004,15.97,296237
+Xinjiang,Northwest China,2004,16,1331540
+Beijing,North China,2003,5.1,3928774
+Tianjin,North China,2003,7.14,1118577
+Hebei,North China,2003,11.43,2320028
+Shanxi,North China,2003,12.26,1304752
+Inner Mongolia,North China,2003,9.24,935815
+Liaoning,Northeast China,2003,6.9,2256444
+Jilin,Northeast China,2003,7.25,1329891
+Heilongjiang,Northeast China,2003,7.48,1882420
+Shanghai,East China,2003,4.85,3070202
+Jiangsu,East China,2003,9.04,4653850
+Zhejiang,East China,2003,9.66,4115764
+Anhui,East China,2003,11.15,1834930
+Fujian,East China,2003,11.43,1965773
+Jiangxi,East China,2003,14.07,1349865
+Shandong,East China,2003,11.42,3740855
+Henan,South Central China,2003,12.1,2544932
+Hubei,South Central China,2003,8.26,2527725
+Hunan,South Central China,2003,11.82,2354583
+Guangdong,South Central China,2003,13.66,6222727
+Guangxi,South Central China,2003,13.86,1437796
+Hainan,South Central China,2003,14.68,329190
+Chongqing,Southwest China,2003,9.89,1207818
+Sichuan,Southwest China,2003,9.18,2662491
+Guizhou,Southwest China,2003,15.91,954018
+Yunnan,Southwest China,2003,17,1448460
+Tibet,Southwest China,2003,17.4,187467
+Shaanxi,Northwest China,2003,10.67,1859411
+Gansu,Northwest China,2003,12.58,914336
+Qinghai,Northwest China,2003,16.94,199568
+Ningxia,Northwest China,2003,15.68,244762
+Xinjiang,Northwest China,2003,16.01,1179433
+Beijing,North China,2002,6.6,3538686
+Tianjin,North China,2002,7.49,975730
+Hebei,North China,2002,11.53,2101072
+Shanxi,North China,2002,12.86,1176900
+Inner Mongolia,North China,2002,9.6,854998
+Liaoning,Northeast China,2002,7.38,1943995
+Jilin,Northeast China,2002,8.3,1226407
+Heilongjiang,Northeast China,2002,7.98,1587805
+Shanghai,East China,2002,5.41,2739674
+Jiangsu,East China,2002,9.17,4044278
+Zhejiang,East China,2002,9.98,3396099
+Anhui,East China,2002,11.2,1640473
+Fujian,East China,2002,11.35,1779257
+Jiangxi,East China,2002,14.74,1169816
+Shandong,East China,2002,11.17,3338764
+Henan,South Central China,2002,12.41,2288399
+Hubei,South Central China,2002,8.38,2301981
+Hunan,South Central China,2002,11.56,2104948
+Guangdong,South Central China,2002,13.29,5203412
+Guangxi,South Central China,2002,13.3,1346031
+Hainan,South Central China,2002,15.2,297250
+Chongqing,Southwest China,2002,9.36,1066535
+Sichuan,Southwest China,2002,10.44,2437437
+Guizhou,Southwest China,2002,17.96,867638
+Yunnan,Southwest China,2002,17.9,1295046
+Tibet,Southwest China,2002,18.83,141178
+Shaanxi,Northwest China,2002,10.48,1597679
+Gansu,Northwest China,2002,13.16,836405
+Qinghai,Northwest China,2002,18.05,190401
+Ningxia,Northwest China,2002,16.42,229623
+Xinjiang,Northwest China,2002,16.3,1082359
+Beijing,North China,2001,6.1,3192212
+Tianjin,North China,2001,7.58,859241
+Hebei,North China,2001,11.16,1779336
+Shanxi,North China,2001,13.06,978975
+Inner Mongolia,North China,2001,10.77,719313
+Liaoning,Northeast China,2001,7.74,1703899
+Jilin,Northeast China,2001,8.76,1051756
+Heilongjiang,Northeast China,2001,8.48,1426565
+Shanghai,East China,2001,5.02,2320452
+Jiangsu,East China,2001,9.03,3370588
+Zhejiang,East China,2001,10.02,2829570
+Anhui,East China,2001,12.46,1342105
+Fujian,East China,2001,11.56,1451136
+Jiangxi,East China,2001,15.44,987385
+Shandong,East China,2001,11.12,2880702
+Henan,South Central China,2001,13.2,1959174
+Hubei,South Central China,2001,8.51,1990721
+Hunan,South Central China,2001,11.8,1771612
+Guangdong,South Central China,2001,13.95,4213487
+Guangxi,South Central China,2001,13.8,1123494
+Hainan,South Central China,2001,15.23,256623
+Chongqing,Southwest China,2001,9.7,867752
+Sichuan,Southwest China,2001,11.16,2028690
+Guizhou,Southwest China,2001,18.56,672764
+Yunnan,Southwest China,2001,18.51,1157532
+Tibet,Southwest China,2001,18.6,103045
+Shaanxi,Northwest China,2001,10.5,1354171
+Gansu,Northwest China,2001,13.58,686750
+Qinghai,Northwest China,2001,19.06,164562
+Ningxia,Northwest China,2001,16.55,195102
+Xinjiang,Northwest China,2001,16.82,937914
